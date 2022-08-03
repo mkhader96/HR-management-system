@@ -18,7 +18,7 @@ function salaryRange(dep){
 var ID = 999;
 
 var employee1 = {
-    employeeID: 0,
+    employeeID: 1,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
@@ -42,7 +42,7 @@ employee1.SalaryCal();
 
 
 var employee2 = {
-    employeeID: 0,
+    employeeID: 2,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
@@ -65,7 +65,7 @@ employee2.SalaryCal();
 
 
 var employee3 = {
-    employeeID: 0,
+    employeeID: 3,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
@@ -90,7 +90,7 @@ employee3.SalaryCal();
 
 
 var employee4 = {
-    employeeID: 0,
+    employeeID: 4,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
@@ -115,7 +115,7 @@ employee4.SalaryCal();
 
 
 var employee5 = {
-    employeeID: 0,
+    employeeID: 5,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
@@ -139,7 +139,7 @@ employee5.SalaryCal();
 
 
 var employee6 = {
-    employeeID: 0,
+    employeeID: 6,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
@@ -164,7 +164,7 @@ employee6.SalaryCal();
 
 
 var employee7 = {
-    employeeID: 0,
+    employeeID: 7,
     uniqueID: function(counter){
         this.employeeID = counter + 1;
         ID++;
