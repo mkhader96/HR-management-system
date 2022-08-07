@@ -8,3 +8,8 @@ Day 9:
 Created mutliple objects using constructor
 Replaced the methods with prototypes
 Shown the results on HTML page
+
+Day 10:
+The main section of the website is shown via javascript.
+Adding some styling to the website.
+
